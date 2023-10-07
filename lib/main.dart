@@ -41,7 +41,7 @@ class myApp extends StatelessWidget {
               Text(" مبرمج تطبيقات ",
               style:TextStyle(
                fontFamily: 'Amiri',
-               fontSize: 27.00,
+               fontSize: 28.00,
                color: Colors.grey.shade200,
                fontWeight: FontWeight.bold, 
               ),
